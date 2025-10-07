@@ -10,8 +10,8 @@ A tárgyat leíró esemény az „Esemény hozzáadása!" opcióra kattintva meg
 
 A *Nyilvántartási rendeletben* meghatározott, leltárkönyvi adatok közül a rendszer többet is eseményként kezel. A leltárkönyvi rovatokat a következőképpen lehet megfeleltetni az eseményközpontú tárgyleírásnak:
 
-|---------------------------|--------------|----------|
 | Leltárkönyvi rovat        | Esemény      | Kérdőszó |
+|---------------------------|--------------|----------|
 | Kor (a készítés ideje)    | Készítés     | Mikor?   |
 | Keletkezés/készítés helye | Készítés     | Hol?     |
 | Készítő/alkotó neve       | Készítés     | Ki?      |
